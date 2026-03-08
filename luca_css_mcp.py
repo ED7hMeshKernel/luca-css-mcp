@@ -1,5 +1,5 @@
 """
-LUCA CSS MCP Client v1.0 — MCP server exposing LUCA CSS Engine tools to AI coding agents.
+LUCA CSS MCP Client v1.0 — MCP server exposing LUCA CSS Engine tools to Claude Code.
 
 3 tools: css_compile, css_preflight, css_scan
 Single file, single dependency (httpx). Communicates with LUCA CSS API server.
